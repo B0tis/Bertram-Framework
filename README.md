@@ -1,3 +1,6 @@
+# !!!WARNING!!!
+# THIS PACKAGE IS IN ACTIVE DEVELOPMENT - DO NOT USE!!!
+
 # Bertram Framework
 
 ## About
@@ -16,7 +19,7 @@ npm install bertram-framework
 ```
 
 ## How to Build
->You can use any package manager except [bun.js](https://bun.sh)!
+>You can use any package manager except [bun](https://bun.sh)!
 
 ### 1. Install typescript globally
 ```
