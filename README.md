@@ -1,7 +1,7 @@
 # Bertram Framework
 
 ## How to build
->You can use any package manager except [bun.js](https://bun.sh)!
+>You can use any package manager except [bun](https://bun.sh)!
 
 ### 1. Install typescript globally
 ```
