@@ -1,3 +1,6 @@
+# !!!WARNING!!!
+# THIS PACKAGE IS IN ACTIVE DEVELOPMENT | DO NOT USE!!!
+
 # Bertram Framework
 
 ## How to build
