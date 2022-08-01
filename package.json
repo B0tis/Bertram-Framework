@@ -1,17 +1,19 @@
 {
-  "name": "Golden-Framework",
-  "version": "1.0.0",
-  "description": "",
+  "name": "bertram-framework",
+  "version": "0.0.5",
+  "description": "A simple yet powerful framework for discord.ts with improved functions and more.",
   "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon dist/main.js",
-    "build": "webpack"
+    "build": "tsc -b --clean"
   },
   "keywords": [],
-  "author": "",
+  "author": "B0tis (Botis#0666)",
   "license": "ISC",
   "dependencies": {
+    "@discordx/importer": "^1.1.10",
+    "discord-api-types": "^0.37.0",
     "discord.js": "^14.1.2",
     "discordx": "^11.0.3",
     "reflect-metadata": "^0.1.13"
