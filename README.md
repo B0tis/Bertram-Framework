@@ -1,11 +1,26 @@
 # Bertram Framework
 
-## How to build
+## About
+A simple yet powerful framework for discord.ts with improved functions and more.
+
+- Command handler
+- Event handler
+- Slash commands registration
+- Automatic intents
+- And much more to cum xD
+
+## How to Install
+Please use Node.js version 16.12.0 or later
+```
+npm install bertram-framework
+```
+
+## How to Build
 >You can use any package manager except [bun.js](https://bun.sh)!
 
 ### 1. Install typescript globally
 ```
-npm i -g typescript
+npm install -g typescript
 ```
 
 ### 2. Build the package
