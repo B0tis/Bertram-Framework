@@ -1,4 +1,4 @@
-export enum PrefixNames {
+export enum LogPrefix {
     Framework = 'framework',
     Client = 'client',
     Handler = 'handler',
@@ -13,6 +13,6 @@ export enum PrefixColors {
 }
 
 export interface Prefix {
-    name: PrefixNames,
+    name: LogPrefix,
     color: PrefixColors
 }
